@@ -1,0 +1,5 @@
+# Python
+venv38/
+*.pyc
+*.pyo
+__pycache__/
