@@ -39,3 +39,7 @@ This project implements an automated attendance system using face recognition. T
 3. The application will start capturing video from the webcam. Recognized faces will be highlighted with their names displayed on the video feed. Press q to exit.
 
 4. View attendance records in data/attendance.csv.
+
+### Official Documentation
+
+[Download PDF](Automated_Attendance_System.pdf)
