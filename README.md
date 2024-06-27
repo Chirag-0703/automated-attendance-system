@@ -42,4 +42,4 @@ This project implements an automated attendance system using face recognition. T
 
 ### Official Documentation
 
-[Download PDF](/Automated_Attendance_System.pdf)
+[Download PDF](/Documentation.pdf)
